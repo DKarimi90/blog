@@ -78,3 +78,7 @@ h2 {
   justify-content: center;
   flex-direction: column;
 }
+.news img {
+  width: 150px; 
+  height: 110px; 
+}
